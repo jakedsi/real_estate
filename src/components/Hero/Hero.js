@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImg from '../../assets/img/hero.png'
+import HeroImg from '../../assets/img/hero.jpg'
 export default function Hero() {
   return (
     <div className='h-screen bg-[#2C2D2A] text-white'>
