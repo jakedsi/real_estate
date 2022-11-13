@@ -5,7 +5,7 @@ import PO from '../../assets/svgs/po.svg'
 import Prop from '../../assets/svgs/property.svg'
 export default function ChooseUs() {
   return (
-    <div className='pt-[45vh] bg-[#F2F2F2]'>
+    <div className='pt-[45vh] pb-[10vh] bg-[#F2F2F2]'>
         <h1 className='text-center font-semibold text-[30px] text-[#030E47]'>Why Choose Us?</h1>
         <div className='flex flex-wrap mt-[5vh] justify-center w-[900px] items-center mx-auto gap-10 lg:w-[750px] md:w-[550px] sm:w-[90%]'>
             <div className='w-[40%] flex flex-col items-center text-center mt-[5vh] md:w-[60%]'>
