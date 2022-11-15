@@ -6,6 +6,7 @@ import PopularProperty from './components/Hero/PopularProperty'
 import Comfort from './components/Hero/Comfort'
 import LatestInfo from './components/Hero/LatestInfo'
 import Feedback from './components/Hero/Feedback'
+import Newsletter from './components/Hero/Newsletter'
 export default function App() {
   return (
     <div>
@@ -16,6 +17,7 @@ export default function App() {
       <Comfort />
       <LatestInfo />
       <Feedback />
+      <Newsletter />
     </div>
   )
 }
